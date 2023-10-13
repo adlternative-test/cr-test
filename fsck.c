@@ -31,6 +31,10 @@ c
 d
 e
 
+f
+g
+h
+
 #define STR(x) #x
 #define MSG_ID(id, msg_type) { STR(id), NULL, NULL, FSCK_##msg_type },
 static struct {
