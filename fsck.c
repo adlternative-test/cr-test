@@ -25,6 +25,12 @@
 #include "credential.h"
 #include "help.h"
 
+a
+b
+c
+d
+e
+
 #define STR(x) #x
 #define MSG_ID(id, msg_type) { STR(id), NULL, NULL, FSCK_##msg_type },
 static struct {
